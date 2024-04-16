@@ -55,8 +55,7 @@ Required Feature
 ## Wireframes
 
 <!-- Add picture of your hand sketched wireframes in this section -->
-<img src="![IMG_0031](https://github.com/Grace-Shao/And101FinalProject/assets/113226931/8009f721-ab5a-470b-8c66-37b43552b533)
-" width=600>
+<img src="![IMG_0031](https://github.com/Grace-Shao/And101FinalProject/assets/113226931/8009f721-ab5a-470b-8c66-37b43552b533)" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
