@@ -34,23 +34,28 @@ Scope: While technically challenging to implement features like AR integration o
 
 Required Features:
 
-- **Browse Pokemon library**
-- **Check chosen Pokemon**
-- **Adopt Pokemon**
+- **Browse Pokemon library through API**
+- **Check chosen Pokemon through a Recycler View**
+- **Adopt Pokemon by clicking a button**
+- **Futhermore, the app will be in an appealing style to pokemon fans**
+
+Optional Features:
+
+- **It will go to another page to show the shopping cart**
+
+
 ### 2. Chosen API(s)
 
-- **list first API endpoint here**
+- **API endpoint here:**
   - **(https://pokeapi.co)**
+
+
 ### 3. User Interaction
 
 Required Feature
 
-- **list first user action here**
-  - => **list result of user action here**
-  - ...
-- **list second user action here**
-  - => **list result of user action here**
-  - ...
+- **User will click "Add Pokemon" button on a pokemon in the Recycler View if they like that pokemon**
+- **Then, they can click Checkout to adopt the pokemon and have it be delivered to their address**
 
 ## Wireframes
 
@@ -71,7 +76,7 @@ For Milestone 2, include **2+ Videos/GIFs** of the build process here!
 
 ## License
 
-Copyright **2024** **Markus Berrios**
+Copyright **2024** **Markus Berrios, Yousuf, Alex, Grace, Winnie**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
