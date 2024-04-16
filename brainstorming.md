@@ -33,6 +33,14 @@ Mobile App Dev - App Brainstorming
 3. Color Picker App
     - Allows users to generate a selection of colors that they can save to a palette. They can scroll through colors, tap to display the hex code, and long press to save.
 
+## 3 New App Ideas by Grace Shao
+1. Book Recommender App
+    - Allows users to request random books and descriptions from an API. They can filter by genre, author, length, etc. 
+2. CryptoTracker App
+    - Allows users to track crypto prices. They can scroll through different currencies and select how they want to see the data formatted.
+3. Dictionary App
+    - Allows users to search up words to find their definition and use in a sentence. 
+
 
 ## Top 3 Ideas
 1. Adopt A Pokemon!
