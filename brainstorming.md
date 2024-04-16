@@ -24,6 +24,14 @@ Mobile App Dev - App Brainstorming
     - Allows you keep track of groceries you need to buy the next time you go shopping (Use an API to grab pictures of different food items from the internet)
 3. Anime Quote Notes
     - Allows you pull anime quotes from the internet and to store them for later reference.
+  
+## 3 New App Ideas by Winnie Liang
+1. Freebies App
+    - Allows users browse and create listings for items being given away. Organize to search by categories, distance, or other filters.
+2. Animal Facts App
+    - Allows users to scroll through facts about various animals, fetched from several APIs. They can select which animals they want to see facts about.
+3. Color Picker App
+    - Allows users to generate a selection of colors that they can save to a palette. They can scroll through colors, tap to display the hex code, and long press to save.
 
 
 ## Top 3 Ideas
